@@ -11,10 +11,15 @@ I am a sophomore university student, pursuing a Bachelor of Science degree with 
 #Skills
 
 -MS Office Suite
+
 -Google Workspace
+
 -ArcGIS
+
 -ERDAS Imagine
+
 -Creative Writing
+
 -Education
 
 #Contact
